@@ -6,3 +6,6 @@ Debashish Dutta: Created the github repo with ethe required folder sturucture. D
 
 Phase 2:
 Have done all the work just like phase1 since I am going solo.
+
+Phase 3:
+All the work has been done by myself.
